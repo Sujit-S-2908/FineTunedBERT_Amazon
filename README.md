@@ -24,7 +24,7 @@ This project implements a fine-tuned BERT model for sentiment analysis on the [A
 ### 1. Clone the Repository
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/Sujit-S-2908/FineTunedBERT_Amazon.git
 cd FineTunedBERT_Amazon
 ```
 
