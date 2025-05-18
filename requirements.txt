@@ -1,0 +1,10 @@
+torch
+transformers
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+nltk
+kagglehub[pandas-datasets]
